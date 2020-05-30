@@ -1,6 +1,0 @@
-[submodule "themes/engimo"]
-	path = themes/engimo
-	url = https://github.com/achary/engimo
-[submodule "themes/hellofriend"]
-	path = themes/hellofriend
-	url = https://github.com/panr/hugo-theme-hello-friend
