@@ -53,6 +53,6 @@ GoogleAnalytics = 'UA-102184299-10'
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "guide"
-        name = "The Guide"
-        url = "https://guide.hackberry.xyz"
+        identifier = "about"
+        name = "About"
+        url = "/about"
