@@ -7,9 +7,11 @@ draft: false
 Nothing big, I just poke around, hack and sometimes write about it. Academic qualifications are not worth mentioning. In the name of professional career, I spent my 6 years learning and 4 years making software and websites for food. Now I have left the day labor, hunting bug bounties these days and will probably move to a cave or something to live my life in peace.
 
 ## Contact Me
-Email: vi [at] hackberry [dot] xyz
-Discord: https://discord.com/users/349170924999933953
-Twitter: https://twitter.com/0xcrypto
+Email: **vi [at] hackberry [dot] xyz**
+
+Discord: [https://discord.com/users/349170924999933953](https://discord.com/users/349170924999933953)
+
+Twitter: [https://twitter.com/0xcrypto](https://twitter.com/0xcrypto)
 
 ## Privacy Policy
 Uhh... There is Google Analytics on this blog and I previously also had Google AdSense but they rejected my application so I have removed the code. There is Twitter widget installed which might be collecting some of your information. Any kind of ad or content blocker should not affect the reading experience. If you are concerned about GDPR, simply disable the cookies. :)
